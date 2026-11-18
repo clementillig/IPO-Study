@@ -8,19 +8,14 @@ I obviously can't provide a reliable prediction of how its stock will perform. B
 
 The first thing I looked at was Jay R. Ritter's IPO statistics, which show that IPO performance is far from uniform. Between 1980 and 2024, the average US IPO first-day return was 18.9%, meaning that a stock offered at $20 would, on average, close its first trading day at approximately $23.78.
 
-
 Here is where you can find the data including more relevant metrics such as the median : https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf?lang=en
 
-But I am not satisfied with this, the dataset is way too broad, overall averages mask significant differences depending on company characteristics. I want to find a relevant proxy for Anthropic, a mere tech against non tech classification won't be enough as tech companies are very differents from each other. I need a database that provides financial data for each individual company that went public. and I found SkyIPO – US IPO Performance Dataset. 
+But I am not satisfied with this, the dataset is way too broad, overall averages mask significant differences depending on company characteristics. I want to find a relevant proxy for Anthropic, a simple tech vs. non-tech classification won't be enough as tech companies are very different from each other. I need a database that provides financial data for each individual company that went public. and I found SkyIPO - US IPO Performance Dataset. 
 
-I will narrow down my analysis to companies that went public as early as 2020 early as I want to highlight recent market trends. We will also only analyze the returns at closure at the following time horizons as those are those provided by SkyIPO : 
--First-day return
--Return 1M
--Return 3M
--Return 6M
--Return 1Y
+I will narrow down my analysis to companies that went public from 2020 onward, to focus on more recent market trends.
 
-In the following when I will mention "All closure returns" I will mean only those 5 ones. Rather than calculate a percentage of daily returns that were above or below a range. I think it's simpler for decision making purposes to assume that those 5 are enough to consider that the variations of the companies will stay within a reasonable range rather than considering each individual outlier. As if we go that way to always get more precision, we would eventually need to use a rigorously peer reviewed mathematical model for stock picking, which is not a necessity in practice even among institutional investors, otherwise Finance would be a solved case. So let's save ourselves some trouble and make the powerful assumption that those 6 returns accurately describe the variations of our stock prices.
+To keep the analysis consistent and manageable, I will focus exclusively on returns at five predefined closing-price horizons provided by SkyIPO: the first trading day, 1 month, 3 months, 6 months, and 1 year. These checkpoints provide a practical overview of post-IPO performance without attempting to capture every price fluctuation in between. Whenever I refer to "all closing returns" throughout this analysis, I mean these five observations.
+
 
 The full methodology is found in IPO_study.py, here is a quick description of the output files.
 
@@ -40,15 +35,17 @@ The full methodology is found in IPO_study.py, here is a quick description of th
 
 **ipo_tech_performance_thresholds :** Counts and percentages of technology IPOs that never reached a 50% return and remained negative across all observed time horizons.
 
-Unsurprisingly, there isn't really a single credible proxy for Anthropic among those companies. Nevertheless, we can fallback to another criteria that will actually provide a strong basis to decide to invest in IPOs in the future not on the same scale but of the same nature : based on Notoriety.
+Unsurprisingly, there isn't really a single credible proxy for Anthropic among those companies. Nevertheless, I wanted to explore another angle that might prove useful when evaluating future IPOs, even if it doesn't provide a direct proxy for Anthropic: Notoriety.
 
-Most people who will invest in Anthropic will do so solely for Representativeness bias as it is a high profile company, and it is not the only one.
+Anthropic is a high-profile company, and I suspect representativeness bias could play a significant role in the enthusiasm surrounding its IPO. It certainly wouldn't be the first time investor expectations were heavily influenced by a company's reputation and perceived potential.
 
-I will classify companies with a purely subjective method : Did I hear about them or not ?
+I used a deliberately subjective criterion as a proxy for notoriety: whether I personally knew the company before conducting this study. This is obviously not an objective measure of brand awareness, but it provides a simple starting point for exploring whether recognizable companies exhibit different IPO performance patterns.
 
 So among 195 confirmed tech companies, I know 8 of them, I assume them to be Notorious ones : Airbnb, Doordash, Unity, Snowflake, Reddit, Gitlab, Duolingo, Figma
 
-5 of them have Consistantly great performance (+30% minimum) across all time horizons :
+The return thresholds mentioned below are illustrative benchmarks used to describe the magnitude of observed performance, not mutually exclusive classification criterion. A company may therefore appear in more than one observation.
+
+5 of them have Consistently great performance (+30% minimum) across all time horizons :
 
 -Airbnb
 -Doordash
@@ -62,36 +59,38 @@ So among 195 confirmed tech companies, I know 8 of them, I assume them to be Not
 -Duolingo
 -Figma
 
-Among the remaining 187 Non Notorious companies : 
+Among the 187 companies I did not personally recognize, here are some of the more interesting findings. The less recognizable companies can also produce some absolutely extraordinary returns, particularly on their first trading day :
 
-6 of them have Consistantly Great performance (+50% minimum) across all time horizons :
+6 of them have Consistently Great performance (+50% minimum) across all time horizons :
 
 -Bentley System
 -nCino OpCo
 -Shift4 Payments
 -Affirm Holdings
 -Swarmer
--SaverOne 2014 Ltd (1st day : 726,47%, 1M : 644,15%, 3M : 666,75%, 6M : 319,69%, 1Y: 393,95%)
+-SaverOne 2014 Ltd (First day : 726,47%, 1M : 644,15%, 3M : 666,75%, 6M : 319,69%, 1Y: 393,95%)
 
 6 of them have Great performance (+100% minimum) initially and eventually drop to negative returns :
 
 -zSpace
--Moving iMage Technologies (1st day : 700%)
--Jianzhi Education Technology Group (1st day : 275%)
--Treasure Global (1st day : 345,50%)
--AMTD Digital (1st day : 107,82%, 1M : 2365%, 3M : 500%, 6M : 28.21%, 1Y : -17,3%)
--Ostin Technology Group (1st day : 891,50%)
+-Moving iMage Technologies : +700% on the first day
+-Ostin Technology Group : +891.50% on the first day
+-Jianzhi Education Technology Group : +275% on the first day
+-Treasure Global : +345.50% on the first day
+-AMTD Digital : +107.82% on the first day, reaching +2,365% at 1M before falling to -17.3% at 1Y
 
-2 of them have Bad Initial performance and eventually recover with great performance (+100% minimum) :
+2 of them have Poor Initial performance and eventually recover with great performance (+100% minimum):
 
 -ARM Holding PLC /UK
 -Mega Fortune Co Ltd
 
-112 of them (59,89%) have a Consistantly low performance (never reach +50%)
+112 of them (59,89%) have a Consistently low performance (never reach +50% at any checkpoint)
 
-35 of them (18,72%) have a Consistantly negative performance (always below 0%)
+35 of them (18,72%) have a Consistently negative performance (always below 0%)
 
-**So, what about Anthropic ?**
+Among these 187 companies, 112 (59.89%) never reached a 50% return at any of my five closing-price checkpoints. This does not mean that they never traded above that level intraday, as my analysis is based exclusively on closing returns. Nevertheless, it illustrates how difficult it can be to achieve substantial returns from IPOs, even when the target is a 50% gain rather than a more modest return.
+
+So, what about Anthropic ?
 
 I don't think Anthropic is necessarily comparable to the companies in my personally recognized sample. Its market positioning, valuation, and the broader AI environment introduce factors that my dataset cannot capture.
 
@@ -100,6 +99,8 @@ If the AI sector is experiencing a bubble, historical IPO returns won't tell us 
 Nevertheless, my analysis raises an interesting question: could investor familiarity and brand recognition play a role in IPO performance? My small sample suggests that this possibility deserves further investigation.
 
 Eight companies are obviously not enough to establish a statistically meaningful relationship, and personal recognition is far from an objective measure of notoriety. But the pattern was interesting enough that I didn't want to dismiss it outright.
+
+
 
 
 
