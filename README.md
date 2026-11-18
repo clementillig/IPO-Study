@@ -1,9 +1,13 @@
-# IPO-Study
+# An IPO, a dataset, and a slightly unconventional question: does notoriety matter?
 
-A study from Jay R. Ritter, professor of finance at the University of Florida shows the distribution of returns is often highly asymmetrical: a few initial public offerings deliver exceptional performance, while a significant proportion underperform the market.
+Tomorrow, Anthropic is expected to go public at a reported valuation of $1.33 trillion.
 
-However there is a particularly interesting phenomenon in IPOs: underpricing.
-Historically, between 1980 and 2024, the average return between the offering price and the first-day closing price in the United States has been 18.9%. This means that, on average, a company that goes public at $20 ends its first day of trading at approximately $23.78.
+Is it worth investing?
+
+I obviously can't provide a reliable prediction of how its stock will perform. But rather than rely on speculation, I wanted to look at what happened to recent IPOs and see whether historical data could offer any useful insight.
+
+The first thing I looked at was Jay R. Ritter's IPO statistics, which show that IPO performance is far from uniform. Between 1980 and 2024, the average US IPO first-day return was 18.9%, meaning that a stock offered at $20 would, on average, close its first trading day at approximately $23.78.
+
 
 Here is where you can find the data including more relevant metrics such as the median : https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf?lang=en
 
@@ -87,13 +91,16 @@ Among the remaining 187 Non Notorious companies :
 
 35 of them (18,72%) have a Consistantly negative performance (always below 0%)
 
-My conclusion is that 59,89% of Non Notorious tech companies going public don't reach 50% returns at a one year time horizon since 2020. While the 50% returns might seem to be an excessive target, it is perfectly reasonable in the sense that it's a maximum.... that wasn't reached, and you won't sell at max when you're in the midst of action because you have no way of knowing when you're at max meaning, the exact moment you should sell. The return you can reasonably expect from a stock that never reach 50% is much less. Remind yourself that 18.72% of the stocks never make a positive closure across a one year horizon, the actual risk of selling at a loss is much higher. 
+**So, what about Anthropic ?**
 
-People invest in non notorious companies IPO anyway because the rare occurence to which it works out it can reach tremendous values like 500% returns (21 000% for AMTD Digital, considering intraday returns rather than only closures).
+I don't think Anthropic is necessarily comparable to the companies in my personally recognized sample. Its market positioning, valuation, and the broader AI environment introduce factors that my dataset cannot capture.
 
-Meanwhile, the Notorious companies have 8 out of 8 times at minimum a return at closure of 30% if you sell on first quotation day. Emphasis on 8 times, while it's not statistically significant, my humble opinion is that if you simply dismiss the notion that this number could mean something, you might be too reliant on your book smarts to not miss out on several opportunities. To me this is a signal of both safety and great returns.
+If the AI sector is experiencing a bubble, historical IPO returns won't tell us when it will burst.
 
-So what about Anthropic ? I don't think it fits with the other Notorious companies, there was no talk of a Doordash or Airbnb buble. But if there is indeed an AI buble, we won't know until the day it burst, and that day may very well be tomorrow.
+Nevertheless, my analysis raises an interesting question: could investor familiarity and brand recognition play a role in IPO performance? My small sample suggests that this possibility deserves further investigation.
+
+Eight companies are obviously not enough to establish a statistically meaningful relationship, and personal recognition is far from an objective measure of notoriety. But the pattern was interesting enough that I didn't want to dismiss it outright.
+
 
 
 
