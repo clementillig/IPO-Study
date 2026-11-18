@@ -1,0 +1,3 @@
+﻿criterion,definition,company_count,eligible_company_count,percentage_of_eligible_companies
+Never reached +50%,Every non-missing available return horizon is strictly below +50%.,112,195,57.43589743589743
+Negative at every observed horizon,Every non-missing available return horizon is strictly below 0%.,35,195,17.94871794871795

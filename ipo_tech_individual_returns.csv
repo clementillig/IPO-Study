@@ -1,0 +1,233 @@
+﻿company_name,symbol,ipo_date,sector,industry,tech_match_reason,First day,1 month,3 months,6 months,1 year,observed_return_horizons,never_reached_+50pct,negative_at_all_observed_horizons
+Oriental Culture Holding LTD,OCG,2020-12-15,Consumer Cyclical,Internet Retail,internet,50.0,29.0,-2.25,19.5,8.75,5,False,False
+Meiwu Technology Co Ltd,WNW,2020-12-15,Consumer Cyclical,Internet Retail,internet,141.0,572.2,129.0,42.8,-39.6,5,False,False
+Airbnb Inc.,ABNB,2020-12-10,Consumer Cyclical,Travel Services,Manual inclusion: Airbnb,112.81,120.25,203.46,106.47,153.74,5,False,False
+DoorDash Inc.,DASH,2020-12-09,Communication Services,Internet Content & Information,internet,85.79,53.03,66.17,47.33,75.26,5,False,False
+PubMatic Inc.,PUBM,2020-12-09,Technology,Software - Application,technology software Technology sector,47.25,31.55,224.05,47.85,96.85,5,False,False
+C3.ai Inc.,AI,2020-12-09,Technology,Software - Infrastructure,technology software Technology sector,120.21,241.98,167.76,46.93,-12.0,5,False,False
+TELOS CORP,TLS,2020-11-19,Technology,Software - Infrastructure,technology software Technology sector,19.35,58.65,107.65,95.18,52.41,5,False,False
+ALLEGRO MICROSYSTEMS INC.,ALGM,2020-10-29,Technology,Semiconductors,technology semiconductor Technology sector,26.43,81.5,90.43,81.07,128.29,5,False,False
+MediaAlpha Inc.,MAX,2020-10-28,Communication Services,Internet Content & Information,internet,67.68,104.89,105.63,86.47,-1.68,5,False,False
+Array Technologies Inc.,ARRY,2020-10-15,Technology,Solar,technology Technology sector,65.68,74.86,96.09,35.55,-15.82,5,False,False
+Thryv Holdings Inc.,THRY,2020-10-01,Communication Services,Internet Content & Information,internet,8.9,-15.93,-4.62,112.88,195.38,5,False,False
+Yalla Group Ltd,YALA,2020-09-30,Technology,Software - Application,technology software Technology sector,-6.67,12.13,105.47,189.47,1.2,5,False,False
+Amesite Inc.,AMST,2020-09-25,Technology,Software - Application,technology software Technology sector,4.4,-10.54,-9.6,22.2,-59.8,5,True,False
+Core AI Holdings Inc.,SYTA,2020-09-25,Technology,Communication Equipment,technology Technology sector,,,,,,0,False,False
+BENTLEY SYSTEMS INC,BSY,2020-09-23,Technology,Software - Application,technology software Technology sector,52.23,65.77,60.32,101.64,193.14,5,False,False
+Corsair Gaming Inc.,CRSR,2020-09-23,Technology,Computer Hardware,technology computer Technology sector,-16.18,45.12,123.41,110.82,70.29,5,False,False
+Unity Software Inc.,U,2020-09-18,Technology,Software - Application,technology software Technology sector,31.44,78.0,192.27,106.98,143.75,5,False,False
+Snowflake Inc.,SNOW,2020-09-16,Technology,Software - Application,technology software Technology sector,111.61,102.1,171.53,116.28,153.63,5,False,False
+JFrog Ltd,FROG,2020-09-16,Technology,Software - Application,technology software Technology sector,47.25,82.23,59.91,21.57,-12.64,5,False,False
+Kubient Inc.,KBNT,2020-08-12,Technology,Software - Application,technology software Technology sector,-17.0,-24.0,-42.2,13.6,-14.0,5,True,False
+IBEX Ltd,IBEX,2020-08-07,Technology,Information Technology Services,technology information technology Technology sector,-18.95,-35.68,-20.47,-3.05,8.58,5,True,False
+Rackspace Technology Inc.,RXT,2020-08-05,Technology,Software - Infrastructure,technology software Technology sector,-21.95,-6.62,-25.0,10.05,-15.48,5,True,False
+Commerce.com Inc.,BIGC,2020-08-05,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Vertex Inc.,VERX,2020-07-29,Technology,Software - Application,technology software Technology sector,25.95,48.37,21.05,83.42,15.47,5,False,False
+Jamf Holding Corp.,JAMF,2020-07-22,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+nCino OpCo Inc.,NCNO,2020-07-14,Technology,Software - Application,technology software Technology sector,195.45,143.13,157.03,133.58,93.29,5,False,False
+QUHUO Ltd,QH,2020-07-10,Technology,Software - Application,technology software Technology sector,27.7,-12.9,-30.1,-24.6,-55.7,5,True,False
+Ebang International Holdings Inc.,EBON,2020-06-26,Technology,Computer Hardware,technology computer Technology sector,-4.4,-19.69,16.63,-6.69,-44.74,5,True,False
+Dada Nexus Ltd,DADA,2020-06-05,Consumer Cyclical,Internet Retail,internet,,,,,,0,False,False
+Shift4 Payments Inc.,FOUR,2020-06-05,Technology,Software - Infrastructure,technology software Technology sector,45.83,57.26,119.0,167.96,305.61,5,False,False
+ZoomInfo Technologies Inc.,ZI,2020-06-04,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Kingsoft Cloud Holdings Ltd,KC,2020-05-08,Technology,Software - Application,technology software Technology sector,40.24,18.82,106.47,70.88,158.35,5,False,False
+Samsara Inc.,IOT,2021-12-15,Technology,Software - Infrastructure,technology software Technology sector,7.39,-0.39,-24.0,-51.09,-58.57,5,True,False
+Advanced Health Intelligence Ltd,AHI,2021-11-19,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Braze Inc.,BRZE,2021-11-17,Technology,Software - Application,technology software Technology sector,43.68,-4.28,-23.05,-38.17,-54.45,5,True,False
+KIDPIK CORP.,PIK,2021-11-11,Consumer Cyclical,Internet Retail,internet,,,,,,0,False,False
+Backblaze Inc.,BLZE,2021-11-11,Technology,Software - Infrastructure,technology software Technology sector,24.38,34.75,-17.31,-40.75,-70.69,5,True,False
+CI&T Inc,CINT,2021-11-10,Technology,Software - Infrastructure,technology software Technology sector,20.8,-8.07,-15.6,-15.27,-45.33,5,True,False
+Expensify Inc.,EXFY,2021-11-10,Technology,Software - Application,technology software Technology sector,52.07,34.67,8.33,-44.33,-51.52,5,False,False
+SOCIETY PASS INCORPORATED.,SOPA,2021-11-09,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+NERDWALLET INC.,NRDS,2021-11-04,Communication Services,Internet Content & Information,internet,57.22,-19.22,-15.94,-45.0,-34.78,5,False,False
+GLOBALFOUNDRIES Inc.,GFS,2021-10-28,Technology,Semiconductors,technology semiconductor Technology sector,-1.28,43.17,38.23,32.81,2.87,5,True,False
+Solo Brands Inc.,DTC,2021-10-28,Consumer Cyclical,Internet Retail,internet,,,,,,0,False,False
+Informatica Inc.,INFA,2021-10-27,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+Arteris Inc.,AIP,2021-10-27,Technology,Semiconductors,technology semiconductor Technology sector,30.0,87.79,50.79,-7.14,-52.43,5,False,False
+Enfusion Inc.,ENFN,2021-10-21,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Cyngn Inc.,CYN,2021-10-20,Technology,Software - Application,technology software Technology sector,-1.33,-11.87,-40.0,-80.53,-86.72,5,True,True
+Gitlab Inc.,GTLB,2021-10-14,Technology,Software - Infrastructure,technology software Technology sector,34.92,62.34,12.99,-29.29,-33.48,5,False,False
+AvidXchange Holdings Inc.,AVDX,2021-10-13,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+Amplitude Inc.,AMPL,2021-09-28,Technology,Software - Application,technology software Technology sector,56.57,92.6,85.71,-38.74,-56.71,5,False,False
+Clearwater Analytics Holdings Inc.,CWAN,2021-09-24,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Remitly Global Inc.,RELY,2021-09-23,Technology,Software - Infrastructure,technology software Technology sector,12.67,-20.65,-44.05,-74.53,-74.42,5,True,False
+Freshworks Inc.,FRSH,2021-09-22,Technology,Software - Application,technology software Technology sector,32.08,30.33,-2.17,-49.11,-62.19,5,True,False
+Toast Inc.,TOST,2021-09-22,Technology,Software - Infrastructure,technology software Technology sector,56.27,24.05,-0.02,-48.7,-52.67,5,False,False
+Sportradar Group AG,SRAD,2021-09-14,Technology,Software - Application,technology software Technology sector,-7.22,-13.04,-40.33,-45.74,-59.26,5,True,True
+Myseum.AI Inc.,DATS,2021-08-13,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+RISKIFIED LTD.,RSKD,2021-07-29,Technology,Software - Application,technology software Technology sector,23.81,37.71,8.62,-62.57,-78.86,5,True,False
+MeridianLink Inc.,MLNK,2021-07-28,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Duolingo Inc.,DUOL,2021-07-28,Technology,Software - Application,technology software Technology sector,31.62,17.75,63.1,4.03,-14.17,5,False,False
+Teads Holding Co.,OB,2021-07-23,Communication Services,Internet Content & Information,internet,,,,,,0,False,False
+Zenvia Inc.,ZENV,2021-07-22,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Couchbase Inc.,BASE,2021-07-22,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+VTEX,VTEX,2021-07-21,Technology,Software - Application,technology software Technology sector,16.74,20.63,8.26,-43.58,-83.79,5,True,False
+PAYCOR HCM INC.,PYCR,2021-07-21,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+KALTURA INC,KLTR,2021-07-21,Technology,Software - Application,technology software Technology sector,20.0,32.0,2.9,-66.3,-80.1,5,True,False
+CS Disco Inc.,LAW,2021-07-21,Technology,Software - Application,technology software Technology sector,28.12,68.34,49.81,11.72,-43.62,5,False,False
+Blend Labs Inc.,BLND,2021-07-16,Technology,Software - Application,technology software Technology sector,16.11,0.0,-25.11,-59.22,-86.89,5,True,False
+MOVING iMAGE TECHNOLOGIES INC.,MITQ,2021-07-08,Technology,Communication Equipment,technology Technology sector,700.0,11.33,-6.0,-30.0,-56.67,5,False,False
+Brightline Interactive Inc./NV,VRAR,2021-07-01,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+EverCommerce Inc.,EVCM,2021-07-01,Technology,Software - Infrastructure,technology software Technology sector,3.53,3.35,27.06,-4.24,-46.82,5,True,False
+D-MARKET Electronic Services & Trading,HEPS,2021-07-01,Consumer Cyclical,Internet Retail,internet,11.92,9.75,-27.17,-79.58,-94.93,5,True,False
+Clear Secure Inc.,YOU,2021-06-30,Technology,Software - Application,technology software Technology sector,29.03,59.45,49.9,2.45,-35.48,5,False,False
+Intapp Inc.,INTA,2021-06-30,Technology,Software - Application,technology software Technology sector,7.69,30.38,40.38,5.35,-43.69,5,True,False
+SentinelOne Inc.,S,2021-06-30,Technology,Software - Infrastructure,technology software Technology sector,21.43,40.89,82.66,54.2,-33.34,5,False,False
+Confluent Inc.,CFLT,2021-06-24,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+Sprinklr Inc.,CXM,2021-06-23,Technology,Software - Application,technology software Technology sector,10.0,19.25,-2.0,-9.81,-20.88,5,True,False
+Full Truck Alliance Co. Ltd.,YMM,2021-06-22,Technology,Software - Application,technology software Technology sector,10.53,-9.47,-15.37,-34.16,-63.53,5,True,False
+ATRenew Inc.,RERE,2021-06-18,Consumer Cyclical,Internet Retail,internet,22.93,0.14,-34.07,-50.07,-78.57,5,True,False
+TaskUs Inc.,TASK,2021-06-11,Technology,Information Technology Services,technology information technology Technology sector,35.17,38.78,173.48,93.7,6.87,5,False,False
+Kanzhun Ltd,BZ,2021-06-11,Communication Services,Internet Content & Information,internet,95.79,90.37,94.0,68.32,6.42,5,False,False
+monday.com Ltd.,MNDY,2021-06-10,Technology,Software - Application,technology software Technology sector,15.4,49.7,144.75,132.13,-26.75,5,False,False
+1stdibs.com Inc.,DIBS,2021-06-10,Consumer Cyclical,Internet Retail,internet,42.5,32.15,-18.45,-35.55,-71.45,5,True,False
+Marqeta Inc.,MQ,2021-06-09,Technology,Software - Infrastructure,technology software Technology sector,13.04,-0.81,7.56,-27.19,-61.22,5,True,False
+dLocal Ltd,DLO,2021-06-03,Technology,Software - Infrastructure,technology software Technology sector,54.24,152.33,204.76,58.1,37.29,5,False,False
+Paymentus Holdings Inc.,PAY,2021-05-26,Technology,Software - Infrastructure,technology software Technology sector,36.24,66.67,38.1,21.9,-21.14,5,False,False
+Flywire Corp,FLYW,2021-05-26,Technology,Software - Infrastructure,technology software Technology sector,46.25,58.67,32.33,97.67,27.12,5,False,False
+PROCORE TECHNOLOGIES INC.,PCOR,2021-05-20,Technology,Software - Application,technology software Technology sector,31.34,35.9,54.15,36.49,-17.21,5,False,False
+iPower Inc.,IPW,2021-05-12,Consumer Cyclical,Internet Retail,internet,14.8,65.0,-2.0,-35.8,-74.2,5,False,False
+Global-E Online Ltd.,GLBE,2021-05-12,Consumer Cyclical,Internet Retail,internet,2.0,86.08,178.56,131.44,-9.84,5,False,False
+SIMILARWEB LTD.,SMWB,2021-05-12,Technology,Software - Application,technology software Technology sector,-0.59,-1.23,9.0,-12.55,-42.41,5,True,False
+FTC Solar Inc.,FTCI,2021-04-28,Technology,Solar,technology Technology sector,9.69,-17.23,2.38,-40.08,-62.08,5,True,False
+UiPath Inc.,PATH,2021-04-21,Technology,Software - Infrastructure,technology software Technology sector,23.21,40.62,21.3,-6.05,-61.45,5,True,False
+DoubleVerify Holdings Inc.,DV,2021-04-21,Technology,Software - Application,technology software Technology sector,33.33,19.26,56.81,26.52,-6.78,5,False,False
+SkyWater Technology LLC,SKYT,2021-04-21,Technology,Semiconductors,technology semiconductor Technology sector,,,,,,0,False,False
+Infobird Co. Ltd,IFBD,2021-04-20,Technology,Software - Application,technology software Technology sector,50.75,-3.25,16.75,-40.0,-82.55,5,False,False
+Applovin Corp,APP,2021-04-15,Technology,Software - Application,technology software Technology sector,-18.5,-28.43,-6.04,-9.54,-31.16,5,True,True
+ALKAMI TECHNOLOGY INC.,ALKT,2021-04-14,Technology,Software - Application,technology software Technology sector,43.33,-2.53,18.9,-17.73,-52.3,5,True,False
+Karooooo Ltd.,KARO,2021-04-01,Technology,Software - Application,technology software Technology sector,21.39,38.96,31.25,12.39,5.89,5,True,False
+Zhihu Inc.,ZH,2021-03-26,Communication Services,Internet Content & Information,internet,-10.53,15.79,-2.0,0.84,-64.84,5,True,False
+ThredUp Inc.,TDUP,2021-03-26,Consumer Cyclical,Internet Retail,internet,42.86,36.5,68.5,36.93,-39.36,5,False,False
+Cricut Inc.,CRCT,2021-03-25,Technology,Computer Hardware,technology computer Technology sector,-10.0,14.8,68.85,39.5,-16.35,5,False,False
+SEMrush Holdings Inc.,SEMR,2021-03-25,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+DigitalOcean Holdings Inc.,DOCN,2021-03-24,Technology,Software - Infrastructure,technology software Technology sector,-9.57,-11.91,-10.55,31.23,26.21,5,True,False
+Tuya Inc.,TUYA,2021-03-18,Technology,Software - Infrastructure,technology software Technology sector,19.62,-3.43,13.62,-50.33,-74.29,5,True,False
+Jowell Global Ltd.,JWEL,2021-03-17,Consumer Cyclical,Internet Retail,internet,24.43,12.86,1.14,-23.43,-59.29,5,True,False
+Olo Inc.,OLO,2021-03-17,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Coupang Inc.,CPNG,2021-03-11,Consumer Cyclical,Internet Retail,internet,40.71,31.0,16.54,-14.4,-24.23,5,True,False
+AUDDIA INC.,AUUD,2021-02-17,Technology,Software - Application,technology software Technology sector,-19.03,-19.76,-31.64,-21.7,-59.52,5,True,True
+Bumble Inc.,BMBL,2021-02-11,Communication Services,Internet Content & Information,internet,63.51,61.07,40.09,18.33,-31.37,5,False,False
+Viant Technology Inc.,DSP,2021-02-10,Technology,Software - Application,technology software Technology sector,90.88,100.64,31.36,-30.84,-68.04,5,False,False
+TELUS International (Cda) Inc.,TIXT,2021-02-03,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+ON24 INC.,ONTF,2021-02-03,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Shoals Technologies Group Inc.,SHLS,2021-01-27,Technology,Solar,technology Technology sector,32.0,30.48,39.12,42.0,-2.8,5,True,False
+Affirm Holdings Inc.,AFRM,2021-01-13,Technology,Software - Infrastructure,technology software Technology sector,96.66,156.92,44.33,37.45,105.22,5,False,False
+Castellum Inc.,CTM,2022-10-13,Technology,Information Technology Services,technology information technology Technology sector,-40.0,-58.4,-37.0,-45.5,-88.5,5,True,True
+Wearable Devices Ltd.,WLDS,2022-09-13,Technology,Consumer Electronics,technology electronics Technology sector,-32.94,-77.2,-84.47,-86.61,-72.24,5,True,True
+Onfolio Holdings Inc,ONFO,2022-08-26,Communication Services,Internet Content & Information,internet,-52.0,-77.1,-75.6,-60.4,-78.8,5,True,True
+Jianzhi Education Technology Group Co Ltd,JZ,2022-08-26,Technology,Information Technology Services,technology information technology Technology sector,275.0,-43.6,-67.0,-67.4,-79.72,5,False,False
+Nexera Technologies Ltd,JFBR,2022-08-26,Consumer Cyclical,Internet Retail,internet,,,,,,0,False,False
+Mobilicom Ltd,MOB,2022-08-25,Technology,Communication Equipment,technology Technology sector,32.45,-58.84,-59.32,-63.68,-47.22,5,True,False
+Starbox Group Holdings Ltd.,STBX,2022-08-23,Communication Services,Internet Content & Information,internet,,,,,,0,False,False
+GigaCloud Technology Inc,GCT,2022-08-18,Technology,Software - Infrastructure,technology software Technology sector,28.08,22.37,-61.8,-52.24,-28.65,5,True,False
+TREASURE GLOBAL INC,TGL,2022-08-11,Technology,Software - Application,technology software Technology sector,345.5,-24.5,-51.75,-55.5,-82.25,5,False,False
+AMTD Digital Inc.,HKD,2022-07-15,Technology,Software - Application,technology software Technology sector,107.82,2365.0,500.0,28.21,-17.31,5,False,False
+Nano Labs Ltd,NA,2022-07-12,Technology,Semiconductors,technology semiconductor Technology sector,4.78,-38.35,-86.0,-90.0,-82.87,5,True,False
+Lytus Technologies Holdings PTV. Ltd.,LYT,2022-06-15,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+SaverOne 2014 Ltd.,SVRE,2022-06-03,Technology,Scientific & Technical Instruments,technology Technology sector,726.47,644.15,666.75,319.69,393.95,5,False,False
+ACTELIS NETWORKS INC,ASNS,2022-05-13,Technology,Communication Equipment,technology Technology sector,-40.0,-66.17,-62.0,-83.4,-14.0,5,True,True
+Ostin Technology Group Co. Ltd.,OST,2022-04-27,Technology,Electronic Components,technology Technology sector,891.5,-47.0,-58.25,-71.25,-77.03,5,False,False
+Applied Digital Corp.,APLD,2022-04-13,Technology,Information Technology Services,technology information technology Technology sector,-3.0,-64.0,-79.0,-66.0,-55.2,5,True,True
+Locafy Ltd,LCFY,2022-03-25,Communication Services,Internet Content & Information,internet,-19.03,-70.18,-79.83,-80.39,103.88,5,False,False
+HeartCore Enterprises Inc.,HTCR,2022-02-10,Technology,Software - Application,technology software Technology sector,-1.0,-52.0,-66.2,-40.0,-76.6,5,True,True
+Maris Tech Ltd.,MTEK,2022-02-02,Technology,Electronic Components,technology Technology sector,-25.0,-60.95,-72.38,-67.38,-76.79,5,True,True
+Credo Technology Group Holding Ltd,CRDO,2022-01-27,Technology,Semiconductors,technology semiconductor Technology sector,16.5,53.3,52.3,16.8,33.1,5,False,False
+Hour Loop Inc,HOUR,2022-01-07,Consumer Cyclical,Internet Retail,internet,99.75,-35.25,-25.25,-36.25,-34.75,5,False,False
+ZKH Group Ltd,ZKH,2023-12-15,Consumer Cyclical,Internet Retail,internet,0.0,5.81,30.77,-38.97,-78.45,5,True,False
+Fenbo Holdings Ltd,FEBO,2023-11-30,Technology,Consumer Electronics,technology electronics Technology sector,-11.2,1.2,18.42,173.6,-28.2,5,False,False
+Signing Day Sports Inc.,SGN,2023-11-14,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Alpha Technology Group Ltd,ATGL,2023-10-31,Technology,Software - Infrastructure,technology software Technology sector,10.0,241.53,217.5,-25.25,69.5,5,False,False
+Global Mofy AI Ltd,GMM,2023-10-10,Technology,Information Technology Services,technology information technology Technology sector,2.0,141.7,11.6,-83.54,-85.2,5,False,False
+Turbo Energy S.A.,TURB,2023-09-22,Technology,Solar,technology Technology sector,0.2,-66.12,-65.2,-76.0,-73.4,5,True,False
+Klaviyo Inc.,KVYO,2023-09-20,Technology,Software - Infrastructure,technology software Technology sector,9.2,-3.3,-1.23,-11.67,4.87,5,True,False
+Maplebear Inc.,CART,2023-09-19,Consumer Cyclical,Internet Retail,internet,12.33,-14.77,-19.37,8.47,19.63,5,True,False
+ARM HOLDINGS PLC /UK,ARM,2023-09-14,Technology,Semiconductors,technology semiconductor Technology sector,24.69,-0.43,20.59,176.55,160.55,5,False,False
+DeFi Development Corp.,JNVR,2023-07-25,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+Perpetuals.com Ltd,ELWS,2023-07-25,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Oddity Tech Ltd,ODD,2023-07-19,Technology,Software - Infrastructure,technology software Technology sector,35.8,29.31,-19.0,32.94,12.17,5,True,False
+ARB IOT Group Ltd,ARBB,2023-04-05,Technology,Information Technology Services,technology information technology Technology sector,-3.75,-3.25,-32.25,-55.5,-63.75,5,True,True
+Biddance AI Systems Inc.,HKIT,2023-03-31,Technology,Software - Application,technology software Technology sector,-49.4,,,,,1,True,True
+SYLA Technologies Co. Ltd.,SYT,2023-03-31,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Intchains Group Ltd,ICG,2023-03-16,Technology,Semiconductors,technology semiconductor Technology sector,0.0,9.38,4.97,-15.5,6.62,5,True,False
+ICZOOM Group Inc.,IZM,2023-03-15,Technology,Electronics & Computer Distribution,technology computer electronics Technology sector,-83.45,-88.7,-80.4,-49.85,-57.2,5,True,True
+Xiao-I Corp,AIXI,2023-03-09,Technology,Software - Application,technology software Technology sector,-87.79,-87.92,-87.5,-94.24,-95.84,5,True,True
+Beamr Imaging Ltd.,BMR,2023-02-28,Technology,Software - Application,technology software Technology sector,-8.75,-27.75,-62.75,-25.5,-53.0,5,True,True
+Nextpower Inc.,NXT,2023-02-09,Technology,Solar,technology Technology sector,26.92,29.96,31.21,76.46,88.62,5,False,False
+Strive Inc.,ASST,2023-02-03,Communication Services,Internet Content & Information,internet,-29.0,-57.8,-82.2,-75.8,-90.82,5,True,True
+Health In Tech Inc.,HIT,2024-12-23,Technology,Software - Application,technology software Technology sector,27.5,44.0,76.25,-84.75,-62.0,5,False,False
+Youxin Technology Ltd,YAAS,2024-12-20,Technology,Software - Application,technology software Technology sector,-82.44,-83.69,-89.39,-91.56,-93.69,5,True,True
+NetClass Technology Inc,NTCL,2024-12-13,Technology,Software - Application,technology software Technology sector,0.0,40.2,42.8,-31.6,-78.6,5,True,False
+ServiceTitan Inc.,TTAN,2024-12-12,Technology,Software - Application,technology software Technology sector,42.25,42.62,33.72,55.87,25.86,5,False,False
+Jinxin Technology Holding Co,NAMI,2024-12-06,Communication Services,Internet Content & Information,internet,11.0,0.62,-34.75,-71.25,-83.05,5,True,False
+zSpace Inc.,ZSPC,2024-12-05,Technology,Computer Hardware,technology computer Technology sector,340.0,133.4,157.6,-12.1,-91.5,5,False,False
+Pony AI Inc.,PONY,2024-11-27,Technology,Information Technology Services,technology information technology Technology sector,-7.69,5.54,1.23,-30.08,43.69,5,True,False
+WeRide Inc.,WRD,2024-10-25,Technology,Software - Application,technology software Technology sector,6.77,28.16,-8.52,-12.45,-36.13,5,True,False
+Ingram Micro Holding Corp,INGM,2024-10-24,Technology,Information Technology Services,technology information technology Technology sector,11.82,0.0,-11.86,-19.36,-2.32,5,True,False
+Wellchange Holdings Co Ltd,WCT,2024-10-02,Technology,Software - Application,technology software Technology sector,-79.45,-58.25,-95.2,-99.1,-98.22,5,True,True
+Global Engine Group Holding Ltd,GLE,2024-09-20,Technology,Information Technology Services,technology information technology Technology sector,4.5,12.7,-10.5,-60.0,-83.0,5,True,False
+Trident Digital Tech Holdings Ltd,TDTH,2024-09-10,Technology,Information Technology Services,technology information technology Technology sector,-23.4,-35.0,-47.0,-88.4,-85.4,5,True,True
+YXT.COM GROUP HOLDING Ltd,YXT,2024-08-16,Technology,Software - Application,technology software Technology sector,-8.91,-58.55,-78.18,-86.0,-92.0,5,True,True
+ORANGEKLOUD TECHNOLOGY INC.,ORKT,2024-07-25,Technology,Software - Application,technology software Technology sector,20.0,5.01,0.0,-36.42,-89.26,5,True,False
+OneStream Inc.,OS,2024-07-24,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+WEBTOON Entertainment Inc.,WBTN,2024-06-27,Communication Services,Internet Content & Information,internet,9.52,3.52,-35.86,-41.52,-58.14,5,True,False
+Gauzy Ltd.,GAUZ,2024-06-06,Technology,Electronic Components,technology Technology sector,-3.24,-36.29,-36.85,-52.24,-51.71,5,True,True
+Life360 Inc.,LIF,2024-06-06,Technology,Software - Application,technology software Technology sector,0.0,19.26,46.04,82.63,135.37,5,False,False
+JIADE Ltd,JDZG,2024-05-15,Technology,Information Technology Services,technology information technology Technology sector,1.75,-75.28,-85.22,-70.0,-82.5,5,True,False
+Silvaco Group Inc.,SVCO,2024-05-09,Technology,Software - Application,technology software Technology sector,4.21,-10.26,-10.58,-67.11,-72.0,5,True,False
+Rubrik Inc.,RBRK,2024-04-25,Technology,Software - Infrastructure,technology software Technology sector,15.62,4.88,-4.19,0.47,90.56,5,False,False
+mF International Ltd,MFI,2024-04-22,Technology,Software - Application,technology software Technology sector,173.11,-70.22,-79.56,-82.89,-86.67,5,False,False
+Ibotta Inc.,IBTA,2024-04-18,Technology,Software - Application,technology software Technology sector,11.36,20.67,-14.59,-29.99,-52.05,5,True,False
+MindForge Inc.,UBXG,2024-03-28,Technology,Software - Infrastructure,technology software Technology sector,,,,,,0,False,False
+Reddit Inc.,RDDT,2024-03-21,Communication Services,Internet Content & Information,internet,48.35,20.24,59.53,76.56,375.82,5,False,False
+Astera Labs Inc.,ALAB,2024-03-20,Technology,Semiconductors,technology semiconductor Technology sector,72.31,79.14,79.28,19.61,106.53,5,False,False
+Ryde Group Ltd,RYDE,2024-03-06,Technology,Software - Application,technology software Technology sector,0.0,-25.75,124.75,80.5,-91.1,5,False,False
+Lucas GC Ltd,LGCL,2024-03-05,Technology,Software - Application,technology software Technology sector,-9.75,-27.0,-42.5,-58.25,-86.85,5,True,True
+SolarMax Technology Inc.,SMXT,2024-02-27,Technology,Solar,technology Technology sector,100.0,100.75,145.0,6.0,-57.75,5,False,False
+Planet Image International Ltd,YIBO,2024-01-25,Technology,Computer Hardware,technology computer Technology sector,-30.25,-37.75,-21.25,-49.75,-15.0,5,True,True
+Joint Stock Co Kaspi.kz,KSPI,2024-01-19,Technology,Software - Infrastructure,technology software Technology sector,4.32,3.86,39.83,40.23,2.95,5,True,False
+Silynxcom Ltd.,SYNX,2024-01-12,Technology,Communication Equipment,technology Technology sector,-9.75,-20.0,-14.75,-28.5,-9.5,5,True,True
+Gloo Holdings Inc.,GLOO,2025-11-19,Technology,Software - Application,technology software Technology sector,1.25,-20.12,-27.5,-20.5,,4,True,False
+Navan Inc.,NAVN,2025-10-30,Technology,Software - Application,technology software Technology sector,-20.0,-33.24,-31.68,-47.04,-16.04,5,True,True
+Pattern Group Inc.,PTRN,2025-09-19,Consumer Cyclical,Internet Retail,internet,11.64,-4.5,3.86,-24.79,48.07,5,True,False
+Platinum Analytics Cayman Ltd,PLTS,2025-09-19,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+Netskope Inc,NTSK,2025-09-18,Technology,Software - Infrastructure,technology software Technology sector,18.37,17.05,-3.26,-43.16,-19.42,5,True,False
+StubHub Holdings Inc.,STUB,2025-09-17,Communication Services,Internet Content & Information,internet,-6.38,-27.02,-50.09,-59.28,-72.85,5,True,True
+Via Transportation Inc.,VIA,2025-09-12,Technology,Software - Application,technology software Technology sector,7.63,1.65,-24.28,-62.65,-39.28,5,True,False
+Bullish,BLSH,2025-08-13,Technology,Software - Infrastructure,technology software Technology sector,83.78,40.11,36.68,-18.38,-41.11,5,False,False
+WhiteFiber Inc.,WYFI,2025-08-07,Technology,Information Technology Services,technology information technology Technology sector,-4.59,-3.88,99.94,14.76,39.41,5,False,False
+Figma Inc.,FIG,2025-07-31,Technology,Software - Application,technology software Technology sector,250.0,112.97,57.18,13.24,-26.3,5,False,False
+Ambiq Micro Inc.,AMBQ,2025-07-30,Technology,Semiconductors,technology semiconductor Technology sector,60.54,65.46,24.67,18.75,267.92,5,False,False
+Mega Fortune Co Ltd,MGRT,2025-07-16,Technology,Information Technology Services,technology information technology Technology sector,-4.75,-13.75,16.75,87.75,1721.25,5,False,False
+Chime Financial Inc.,CHYM,2025-06-12,Technology,Software - Application,technology software Technology sector,37.44,11.59,-2.19,-21.74,-31.11,5,True,False
+Yuanbao Inc.,YB,2025-04-30,Technology,Software - Application,technology software Technology sector,6.4,0.67,40.13,30.93,10.0,5,True,False
+iOThree Ltd,IOTR,2025-04-10,Technology,Information Technology Services,technology information technology Technology sector,-11.25,-88.03,-89.75,-90.45,-46.25,5,True,True
+Tianci International Inc.,CIIT,2025-04-10,Technology,Electronics & Computer Distribution,technology computer electronics Technology sector,-35.0,-45.0,-80.75,-86.05,-59.25,5,True,True
+Fatpipe Inc/UT,FATN,2025-04-08,Technology,Software - Infrastructure,technology software Technology sector,126.09,64.17,71.13,11.13,-57.57,5,False,False
+BeLive Holdings,BLIV,2025-04-04,Technology,Software - Application,technology software Technology sector,-11.5,15.5,-21.0,-9.0,-33.25,5,True,False
+Lianhe Sowell International Group Ltd,LHSW,2025-04-03,Technology,Software - Infrastructure,technology software Technology sector,7.25,-13.5,-57.5,-48.42,-96.2,5,True,False
+CoreWeave Inc.,CRWV,2025-03-28,Technology,Software - Infrastructure,technology software Technology sector,0.0,3.85,178.27,157.6,98.9,5,False,False
+Baiya International Group Inc.,BIYA,2025-03-21,Technology,Software - Application,technology software Technology sector,4.5,-20.25,22.0,-85.62,-61.25,5,True,False
+RedCloud Holdings plc,RCT,2025-03-21,Technology,Software - Application,technology software Technology sector,0.0,-60.22,-61.56,-62.44,-77.11,5,True,False
+Micropolis AI Robotics,MCRP,2025-03-07,Technology,Software - Infrastructure,technology software Technology sector,-11.25,-30.0,-39.23,-57.75,3.5,5,True,False
+SAGTEC GLOBAL Ltd,SAGT,2025-03-07,Technology,Software - Application,technology software Technology sector,-10.0,-43.0,-26.0,-50.52,-49.25,5,True,True
+PN Smart Energy Ltd,PN,2025-03-04,Technology,Solar,technology Technology sector,0.75,-18.25,-28.5,-76.83,-87.75,5,True,False
+Wetour Robotics Ltd,WETO,2025-02-27,Technology,Software - Application,technology software Technology sector,-10.0,-1.0,3.0,-54.5,-84.33,5,True,False
+LZ Technology Holdings Ltd,LZMH,2025-02-27,Technology,Information Technology Services,technology information technology Technology sector,25.0,112.75,136.5,41.25,-66.75,5,False,False
+SailPoint Inc.,SAIL,2025-02-13,Technology,Software - Infrastructure,technology software Technology sector,-4.35,-18.7,-25.39,-2.87,-31.78,5,True,True
+EPWK Holdings Ltd.,EPWK,2025-02-06,Technology,Software - Application,technology software Technology sector,,,,,,0,False,False
+3 E Network Technology Group Ltd,MASK,2025-01-08,Technology,Software - Application,technology software Technology sector,-18.75,-33.75,-7.5,-45.5,-93.97,5,True,True
+SunScout Holding Ltd,SNSC,2026-08-12,Technology,Solar,technology Technology sector,-38.6,-77.2,-86.0,,,3,True,True
+Ticketplus Ltd.,TP,2026-08-07,Technology,Software - Infrastructure,technology software Technology sector,-12.5,12.38,5.12,,,3,True,False
+Csquare Inc.,CSQR,2026-07-16,Technology,Information Technology Services,technology information technology Technology sector,-1.57,8.19,-24.71,,,3,True,False
+SK hynix Inc.,SKHY,2026-07-10,Technology,Semiconductors,technology semiconductor Technology sector,12.76,-7.44,23.59,,,3,True,False
+Bending Spoons S.p.A.,BSP,2026-07-01,Technology,Software - Application,technology software Technology sector,39.66,21.38,42.59,,,3,True,False
+Quantinuum Inc.,QNT,2026-06-04,Technology,Software - Application,technology software Technology sector,0.63,24.27,-16.5,,,3,True,False
+Vida Global Inc.,VIDA,2026-05-15,Technology,Software - Application,technology software Technology sector,-37.0,-4.25,-39.75,-75.25,,4,True,True
+Exyn Technologies Inc.,EXYN,2026-05-15,Technology,Software - Infrastructure,technology software Technology sector,-32.9,-23.61,-69.81,-70.19,,4,True,True
+Cerebras Systems Inc.,CBRS,2026-05-14,Technology,Semiconductors,technology semiconductor Technology sector,68.15,15.68,7.41,-40.98,,4,False,False
+Swarmer Inc,SWMR,2026-03-17,Technology,Software - Infrastructure,technology software Technology sector,520.0,701.8,1024.2,562.8,,4,False,False
+PayPay Corp,PAYP,2026-03-12,Technology,Software - Infrastructure,technology software Technology sector,13.5,25.62,22.0,-5.44,,4,True,False
+SharonAI Holdings Inc.,SHAZ,2026-02-18,Technology,Information Technology Services,technology information technology Technology sector,5.67,-20.5,53.33,60.83,,4,False,False
+PicS N.V.,PICS,2026-01-29,Technology,Software - Infrastructure,technology software Technology sector,0.0,-10.11,-45.0,-44.05,,4,True,False
+Aktis Oncology Inc.,AKTS,2026-01-09,Technology,Communication Equipment,technology Technology sector,24.44,5.44,-0.61,79.06,,4,False,False
